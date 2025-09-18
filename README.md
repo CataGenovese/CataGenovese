@@ -14,16 +14,16 @@ I’m passionate about programming, software development, and learning new techn
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Catagenovese&theme=dark&hide_border=true)<br/>
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Catagenovese&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CataGenovese/CataGenovese/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CataGenovese/CataGenovese/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CataGenovese/CataGenovese/output/pacman-contribution-graph.svg">
 </picture>
+
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Catagenovese&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
