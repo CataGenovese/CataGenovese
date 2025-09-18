@@ -1,4 +1,9 @@
 # Buongiornooo☀️
+I’m Cata, a DAM (Multiplatform Application Development) student.
+I’m passionate about programming, software development, and learning new technologies.
+###
+![Mi gif](https://raw.githubusercontent.com/CataGenovese/CataGenovese/main/assets/github.gif)
+
 
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:catagenovesee@gmail.com) 
@@ -23,5 +28,7 @@
 
 
 
-###
+
+
+
 
