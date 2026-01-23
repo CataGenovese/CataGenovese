@@ -52,18 +52,20 @@
 
 Here are my main projects organized by technology:
 
-### 📱 Mobile Development (Android & Kotlin)
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[📍 Maps App](https://github.com/CataGenovese/api_maps_android_studio)** | Geographic marker manager with photo integration and Supabase cloud sync. | `Kotlin` `Google Maps` `Supabase` |
-| **[📱 API List Explorer](https://github.com/CataGenovese/api_list_android_studio)** | REST API consumer app featuring search, details view, and offline favorites using Room. | `Kotlin` `Retrofit` `Room DB` |
-| **[🎵 Music Trivia](https://github.com/CataGenovese/trivial_music_android_studio)** | Quiz game with difficulty levels, score tracking, and clean UI flow. | `Kotlin` `MVVM` `Single Activity` |
-| **[🧠 Memory Game](https://github.com/CataGenovese/memory_game_android_studio)** | Cross-platform memory card game (Android/Desktop/Web) developed with KMP. | `Kotlin Multiplatform` `Compose` `MVVM` |
-
 ### 🔐 Backend & Security (Node.js)
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Auth System](https://github.com/CataGenovese/sistema_autenticacio_nodeJS_express)** | Full Authentication system with Login/Register, JWT handling, and secure HttpOnly Cookies. | `Node.js` `Express` `JWT` `Bcrypt` |
+| **[API DB integration](https://github.com/CataGenovese/API_swagger_existingDataBase/tree/main)** | REST API connected to a real database featuring Swagger documentation and DAO/DTO patterns. | `Java` `Maven` `Swagger` `SQL` |
+
+
+### 📱 Mobile Development (Android & Kotlin)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Maps App](https://github.com/CataGenovese/api_maps_android_studio)** | Geographic marker manager with photo integration and Supabase cloud sync. | `Kotlin` `Google Maps` `Supabase` |
+| **[API List Explorer](https://github.com/CataGenovese/api_list_android_studio)** | REST API consumer app featuring search, details view, and offline favorites using Room. | `Kotlin` `Retrofit` `Room DB` |
+| **[Music Trivia](https://github.com/CataGenovese/trivial_music_android_studio)** | Quiz game with difficulty levels, score tracking, and clean UI flow. | `Kotlin` `MVVM` `Single Activity` |
+| **[Memory Game](https://github.com/CataGenovese/memory_game_android_studio)** | Cross-platform memory card game (Android/Desktop/Web) developed with KMP. | `Kotlin Multiplatform` `Compose` `MVVM` |
 
 ---
 
