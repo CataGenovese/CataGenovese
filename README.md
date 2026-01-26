@@ -67,6 +67,10 @@ Here are my main projects organized by technology:
 | **[Music Trivia](https://github.com/CataGenovese/trivial_music_android_studio)** | Quiz game with difficulty levels, score tracking, and clean UI flow. | `Kotlin` `MVVM` `Single Activity` |
 | **[Memory Game](https://github.com/CataGenovese/memory_game_android_studio)** | Cross-platform memory card game (Android/Desktop/Web) developed with KMP. | `Kotlin Multiplatform` `Compose` `MVVM` |
 
+### 🕹️ MakeCode Arcade
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Retro Game Project](https://github.com/IagoMar/cataIagoEntregaRetroGame)** | Collab project: Classic arcade-style game developed with blocks and JS. | `MakeCode` `JavaScript` `Arcade` |
 ---
 
 
